@@ -1,4 +1,4 @@
-## when we type google.com in an address bar wtf happens.
+## when we type google.com in an address bar what happens.
 
 1) dns - browser, arp/os, router cache, isp, dns server query
 2) tcp handsharke 3 way
